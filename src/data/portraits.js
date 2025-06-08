@@ -1,7 +1,7 @@
 const portraitData = {
   title: "portrait Photography",
   description: "Capturing the essence and personality of each individual in beautiful settings",
-  coverImage: "https://i.ibb.co/FqD6bwr4/IMG-0269-1.jpg",
+  coverImage: "https://i.ibb.co/dwFLJgwf/IMG-2013-1.jpg",
   subcategories: [
     {
       id: "nature-portraits",
