@@ -7,7 +7,7 @@ const portraitData = {
       id: "nature-portraits",
       title: "Nature Portraits",
       description: "Beautiful portraits set in natural environments",
-      coverImage: "https://i.ibb.co/fVmj90sZ/Picsart-25-06-08-21-02-11- 757.jpg",
+      coverImage: "https://i.ibb.co/HLtHBHVq/Picsart-25-06-08-23-09- 51-122.jpg",
       photos: [
         {
           id: "np-1",
