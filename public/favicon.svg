@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.elegantlens">
+  <rect width="32" height="32" rx="8" fill="#0077ED"/>
+  <path d="M10 9C10 7.89543 10.8954 7 12 7H20C21.1046 7 22 7.89543 22 9V23C22 24.1046 21.1046 25 20 25H12C10.8954 25 10 24.1046 10 23V9Z" stroke="white" stroke-width="2"/>
+  <circle cx="16" cy="16" r="4" stroke="white" stroke-width="2"/>
+  <circle cx="19" cy="11" r="1" fill="white"/>
+</svg>
