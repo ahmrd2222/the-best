@@ -17,7 +17,7 @@ const portraitData = {
         },
         {
           id: "np-2",
-          src: "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://postimg.cc/K4NcbyLc",
           alt: "Man by the lake",
           description: "Sunset portrait by the lake"
         },
