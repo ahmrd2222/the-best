@@ -29,7 +29,7 @@ const portraitData = {
         },
         {
           id: "np-4",
-          src: "https://images.pexels.com/photos/1435517/pexels-photo-1435517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/zhQj5N7h/Whats-App-Image-2025-07-04-at-9-52-55-PM-2.jpg"",
           alt: "Woman in mountains",
           description: "Mountain adventure portrait"
         },
