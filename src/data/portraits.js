@@ -45,7 +45,7 @@ const portraitData = {
       id: "sami grad",
       title: "sami grad",
       description: "Modern portraits in city environments",
-      coverImage: "https://images.pexels.com/photos/2794820/pexels-photo-2794820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      coverImage: "https://i.ibb.co/h1F95m8K/IMG-3023.jpg",
       photos: [
         {
           id: "up-1",
