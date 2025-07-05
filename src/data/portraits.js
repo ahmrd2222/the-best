@@ -55,7 +55,7 @@ const portraitData = {
         },
         {
           id: "up-2",
-          src: "https://images.pexels.com/photos/2531307/pexels-photo-2531307.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/7dVs44F3/IMG-3046.jpg",
           alt: "Man against brick wall",
           description: "Industrial zone portrait"
         },
