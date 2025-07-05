@@ -11,7 +11,7 @@ const portraitData = {
       photos: [
         {
           id: "np-1",
-          src: "https://ibb.co/b5Vd9mFk",
+          src: "https://i.ibb.co/b5Vd9mFk/Whats-App-Image-2025-07-04-at-9-52-47-PM.jpg",
           alt: "Woman in green forest",
           description: "Portrait session in a lush green forest"
         },
