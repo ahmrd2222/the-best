@@ -1,17 +1,17 @@
 const portraitData = {
-  title: "prrroljdi Photography",
+  title: "portrait Photography",
   description: "Capturing the essence and personality of each individual in beautiful settings",
   coverImage: "https://i.ibb.co/HLtHBHVq/Picsart-25-06-08-23-09- 51-122.jpg",
   subcategories: [
     {
-      id: "nature-portraits",
-      title: "Nature Portraits",
+      id: "Fikayo grad",
+      title: "Fikayo-session",
       description: "Beautiful portraits set in natural environments",
       coverImage: "https://i.ibb.co/HLtHBHVq/Picsart-25-06-08-23-09- 51-122.jpg",
       photos: [
         {
           id: "np-1",
-          src: "https://i.ibb.co/SwwGnMfH/IMG-1984.jpg",
+          src: "<a href="https://ibb.co/b5Vd9mFk"><img src="https://i.ibb.co/9H0Y5gh7/Whats-App-Image-2025-07-04-at-9-52-47-PM.jpg" alt="Whats-App-Image-2025-07-04-at-9-52-47-PM" border="0" /></a>",
           alt: "Woman in green forest",
           description: "Portrait session in a lush green forest"
         },
@@ -42,7 +42,7 @@ const portraitData = {
       ]
     },
     {
-      id: "urban-portraits",
+      id: "sami grad",
       title: "Urban Portraits",
       description: "Modern portraits in city environments",
       coverImage: "https://images.pexels.com/photos/2794820/pexels-photo-2794820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
@@ -80,7 +80,7 @@ const portraitData = {
       ]
     },
     {
-      id: "studio-portraits",
+      id: "friendds session",
       title: "Studio-style Portraits",
       description: "Professional portraits with controlled lighting",
       coverImage: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
