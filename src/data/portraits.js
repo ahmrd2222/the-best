@@ -49,7 +49,7 @@ const portraitData = {
       photos: [
         {
           id: "up-1",
-          src: "https://images.pexels.com/photos/2794820/pexels-photo-2794820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/SwB09kNm/IMG-3044.jpg",
           alt: "Woman in urban setting",
           description: "Downtown fashion portrait"
         },
