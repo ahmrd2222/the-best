@@ -35,7 +35,7 @@ const portraitData = {
         },
         {
           id: "np-5",
-          src: "https://images.pexels.com/photos/2468339/pexels-photo-2468339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/Jj86sf5p/Whats-App-Image-2025-07-04-at-9-52-56-PM-1.jpg"",
           alt: "Man in autumn forest",
           description: "Fall colors portrait session"
         }
@@ -43,7 +43,7 @@ const portraitData = {
     },
     {
       id: "sami grad",
-      title: "Urban Portraits",
+      title: "sami grad",
       description: "Modern portraits in city environments",
       coverImage: "https://images.pexels.com/photos/2794820/pexels-photo-2794820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       photos: [
