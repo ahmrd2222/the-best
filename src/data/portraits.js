@@ -29,13 +29,13 @@ const portraitData = {
         },
         {
           id: "np-4",
-          src: "https://i.ibb.co/zhQj5N7h/Whats-App-Image-2025-07-04-at-9-52-55-PM-2.jpg"",
+          src: "https://i.ibb.co/zhQj5N7h/Whats-App-Image-2025-07-04-at-9-52-55-PM-2.jpg",
           alt: "Woman in mountains",
           description: "Mountain adventure portrait"
         },
         {
           id: "np-5",
-          src: "https://i.ibb.co/Jj86sf5p/Whats-App-Image-2025-07-04-at-9-52-56-PM-1.jpg"",
+          src: "https://i.ibb.co/Jj86sf5p/Whats-App-Image-2025-07-04-at-9-52-56-PM-1.jpg",
           alt: "Man in autumn forest",
           description: "Fall colors portrait session"
         }
