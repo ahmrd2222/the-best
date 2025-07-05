@@ -5,7 +5,7 @@ const portraitData = {
   subcategories: [
     {
       id: "Fikayo grad",
-      title: "Fikayo-graduation",
+      title: "Fikayo grad",
       description: "Beautiful portraits set in natural environments",
       coverImage: "https://i.ibb.co/HLtHBHVq/Picsart-25-06-08-23-09- 51-122.jpg",
       photos: [
