@@ -61,7 +61,7 @@ const portraitData = {
         },
         {
           id: "up-3",
-          src: "https://images.pexels.com/photos/1687675/pexels-photo-1687675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/93kWv5c1/IMG-3033.jpg",
           alt: "Woman on city street",
           description: "Street style urban portrait"
         },
