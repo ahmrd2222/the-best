@@ -45,7 +45,7 @@ const Home = () => {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-black opacity-40 z-10"></div>
           <motion.img
-            src="https://images.pexels.com/photos/1261731/pexels-photo-1261731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            src="https://i.ibb.co/svSK1D2C/IMG-1415.jpg"
             alt="Hero background"
             className="w-full h-full object-cover"
             initial={{ scale: 1.1 }}
