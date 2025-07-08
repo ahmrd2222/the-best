@@ -12,32 +12,32 @@ const portraitData = {
         {
           id: "np-1",
           src: "https://i.ibb.co/9H0Y5gh7/Whats-App-Image-2025-07-04-at-9-52-47-PM.jpg",
-          alt: "Woman in green forest",
-          description: "Portrait session in a lush green forest"
+          alt: "Woman in green",
+          description: "."
         },
         {
           id: "np-2",
           src: "https://i.ibb.co/hJyYddvq/IMG-1981.jpg",
           alt: "Man by the lake",
-          description: "Sunset portrait by the lake"
+          description: "."
         },
         {
           id: "np-3",
           src: "https://i.ibb.co/bjppP4LW/IMG-1877.jpg",
           alt: "Woman in flower field",
-          description: "Spring portrait in a flower field"
+          description: "."
         },
         {
           id: "np-4",
           src: "https://i.ibb.co/zhQj5N7h/Whats-App-Image-2025-07-04-at-9-52-55-PM-2.jpg",
           alt: "Woman in mountains",
-          description: "Mountain adventure portrait"
+          description: "."
         },
         {
           id: "np-5",
           src: "https://i.ibb.co/Jj86sf5p/Whats-App-Image-2025-07-04-at-9-52-56-PM-1.jpg",
           alt: "Man in autumn forest",
-          description: "Fall colors portrait session"
+          description: "."
         }
       ]
     },
@@ -51,33 +51,33 @@ const portraitData = {
           id: "up-1",
           src: "https://i.ibb.co/SwB09kNm/IMG-3044.jpg",
           alt: "Woman in urban setting",
-          description: "Downtown fashion portrait"
+          description: "."
         },
         {
           id: "up-2",
           src: "https://i.ibb.co/7dVs44F3/IMG-3046.jpg",
           alt: "Man against brick wall",
-          description: "Industrial zone portrait"
+          description: "."
         },
         {
           id: "up-3",
           src: "https://i.ibb.co/93kWv5c1/IMG-3033.jpg",
           alt: "Woman on city street",
-          description: "Street style urban portrait"
+          description: "."
         },
         {
           id: "up-4",
           src:
 "https://i.ibb.co/TM158xxP/IMG-3016.jpg",
           alt: "Man on rooftop",
-          description: "City skyline rooftop portrait"
+          description: "."
         },
         {
           id: "up-5",
           src:
 "https://i.ibb.co/M58n6ZcK/IMG-3015.jpg",
           alt: "Woman by neon lights",
-          description: "Night city neon portrait"
+          description: "."
         }
       ]
     },
