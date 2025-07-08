@@ -67,13 +67,15 @@ const portraitData = {
         },
         {
           id: "up-4",
-          src: "https://images.pexels.com/photos/2681751/pexels-photo-2681751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src:
+"https://i.ibb.co/TM158xxP/IMG-3016.jpg",
           alt: "Man on rooftop",
           description: "City skyline rooftop portrait"
         },
         {
           id: "up-5",
-          src: "https://images.pexels.com/photos/2691338/pexels-photo-2691338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src:
+"https://i.ibb.co/M58n6ZcK/IMG-3015.jpg",
           alt: "Woman by neon lights",
           description: "Night city neon portrait"
         }
