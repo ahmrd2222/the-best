@@ -61,7 +61,8 @@ const portraitData = {
         },
         {
           id: "up-3",
-          src: "https://i.ibb.co/93kWv5c1/IMG-3033.jpg",
+          src:
+"https://i.ibb.co/nNNkGNWZ/IMG-3059.jpg",
           alt: "Woman on city street",
           description: "."
         },
