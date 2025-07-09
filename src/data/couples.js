@@ -1,14 +1,18 @@
 const eventsData = {
   title: " commercial photography",
   description: "Through my lens, your business looks its best, captivating customers with quality",
-  coverImage: "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  coverImage: "https://i.ibb.co/WNn8PJzB/
+
+Screenshot-20250708-191020.png",
   galleries: [
     {
       id: "ali-graduation-2025",
       title: "SHK BILAL Assad – May 2025",
       date: "May 15, 2025",
       description: " capturing best moments in the event",
-      coverImage: "https://i.ibb.co/dwbvhg9H/IMG-1638.jpg",
+      coverImage: "https://i.ibb.co/JjynCMHc/
+
+IMG-2757.jpg",
       photos: [
         {
           id: "grad-1",
