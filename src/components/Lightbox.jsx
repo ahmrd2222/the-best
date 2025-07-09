@@ -89,11 +89,23 @@ const Lightbox = ({ isOpen, onClose, photo, photos, setSelectedPhoto }) => {
               transition={{ duration: 0.3 }}
             >
               <div className="relative max-w-full max-h-[80vh]">
-                <img 
-                  src={photo.src} 
-                  alt={photo.alt}
-                  className="max-w-full max-h-[80vh] object-contain"
-                />
+                {photo.type === 'video' ? (
+                  <video 
+                    src={photo.src}
+                    controls
+                    autoPlay
+                    className="max-w-full max-h-[80vh] object-contain"
+                    poster={photo.poster}
+                  >
+                    Your browser does not support the video tag.
+                  </video>
+                ) : (
+                  <img 
+                    src={photo.src} 
+                    alt={photo.alt}
+                    className="max-w-full max-h-[80vh] object-contain"
+                  />
+                )}
               </div>
               
               <div className="text-white mt-4 text-center">

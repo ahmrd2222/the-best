@@ -64,6 +64,14 @@ const eventsData = {
           src: "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           alt: "Graduate success",
           description: "Achievement and success"
+        },
+        {
+          id: "grad-video-1",
+          type: "video",
+          src: "https://videos.pexels.com/video-files/3196036/3196036-uhd_2560_1440_25fps.mp4",
+          poster: "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Graduation ceremony highlights",
+          description: "Video highlights from the graduation ceremony"
         }
       ]
     },
@@ -128,6 +136,14 @@ const eventsData = {
           src: "https://images.pexels.com/photos/1205033/pexels-photo-1205033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           alt: "Campus gathering",
           description: "University community event"
+        },
+        {
+          id: "kings-video-1",
+          type: "video",
+          src: "https://videos.pexels.com/video-files/3209828/3209828-uhd_2560_1440_25fps.mp4",
+          poster: "https://images.pexels.com/photos/1729931/pexels-photo-1729931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "King's University celebration video",
+          description: "Video highlights from King's University celebration"
         }
       ]
     }
