@@ -6,7 +6,7 @@ import { usePhotoData } from '../context/PhotoDataContext'
 import CategoryPreview from '../components/CategoryPreview'
 
 const Home = () => {
-  const { portraits, events, commercial } = usePhotoData()
+  const { portraits, events, couples } = usePhotoData()
   const [heroRef, heroInView] = useInView({
     triggerOnce: true,
     threshold: 0.1
