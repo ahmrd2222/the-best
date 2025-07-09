@@ -38,6 +38,30 @@ const portraitData = {
           src: "https://i.ibb.co/Jj86sf5p/Whats-App-Image-2025-07-04-at-9-52-56-PM-1.jpg",
           alt: "Man in autumn forest",
           description: "."
+        },
+        {
+          id: "np-6",
+          src: "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Portrait in golden hour",
+          description: "Beautiful natural lighting portrait"
+        },
+        {
+          id: "np-7",
+          src: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Professional headshot",
+          description: "Clean professional portrait"
+        },
+        {
+          id: "np-8",
+          src: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Outdoor portrait session",
+          description: "Natural outdoor portrait"
+        },
+        {
+          id: "np-9",
+          src: "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Creative portrait lighting",
+          description: "Artistic portrait with creative lighting"
         }
       ]
     },
@@ -79,6 +103,30 @@ const portraitData = {
 "https://i.ibb.co/M58n6ZcK/IMG-3015.jpg",
           alt: "Woman by neon lights",
           description: "."
+        },
+        {
+          id: "up-6",
+          src: "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Urban street portrait",
+          description: "Modern city portrait session"
+        },
+        {
+          id: "up-7",
+          src: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Industrial background portrait",
+          description: "Urban industrial setting"
+        },
+        {
+          id: "up-8",
+          src: "https://images.pexels.com/photos/1484794/pexels-photo-1484794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "City skyline portrait",
+          description: "Portrait with city backdrop"
+        },
+        {
+          id: "up-9",
+          src: "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Modern urban portrait",
+          description: "Contemporary city portrait"
         }
       ]
     },
@@ -117,6 +165,30 @@ const portraitData = {
           src: "https://images.pexels.com/photos/3394347/pexels-photo-3394347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           alt: "Minimalist portrait",
           description: "Clean, minimalist studio portrait"
+        },
+        {
+          id: "sp-6",
+          src: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Professional business portrait",
+          description: "Corporate professional headshot"
+        },
+        {
+          id: "sp-7",
+          src: "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Creative studio lighting",
+          description: "Artistic studio portrait with dramatic lighting"
+        },
+        {
+          id: "sp-8",
+          src: "https://images.pexels.com/photos/1559486/pexels-photo-1559486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Fashion portrait session",
+          description: "High-end fashion studio portrait"
+        },
+        {
+          id: "sp-9",
+          src: "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Classic studio portrait",
+          description: "Timeless studio portrait style"
         }
       ]
     }

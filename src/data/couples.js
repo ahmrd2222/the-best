@@ -40,6 +40,30 @@ const eventsData = {
           src: "https://i.ibb.co/XZcYpV0b/IMG-1453.jpg",
           alt: "Graduate portrait",
           description: "."
+        },
+        {
+          id: "grad-6",
+          src: "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Couple celebration",
+          description: "Celebrating together"
+        },
+        {
+          id: "grad-7",
+          src: "https://images.pexels.com/photos/1024998/pexels-photo-1024998.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Romantic moment",
+          description: "Beautiful couple moment"
+        },
+        {
+          id: "grad-8",
+          src: "https://images.pexels.com/photos/1024999/pexels-photo-1024999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Engagement session",
+          description: "Engagement photography"
+        },
+        {
+          id: "grad-9",
+          src: "https://images.pexels.com/photos/1024996/pexels-photo-1024996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Couple portrait",
+          description: "Professional couple portrait"
         }
       ]
     },
@@ -80,6 +104,30 @@ const eventsData = {
           src: "https://i.ibb.co/S4mC37xj/IMG-0381.jpg",
           alt: "Party decorations",
           description: ""
+        },
+        {
+          id: "bday-6",
+          src: "https://images.pexels.com/photos/1024997/pexels-photo-1024997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Couple at event",
+          description: "Couple enjoying celebration"
+        },
+        {
+          id: "bday-7",
+          src: "https://images.pexels.com/photos/1024995/pexels-photo-1024995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Anniversary celebration",
+          description: "Special anniversary moment"
+        },
+        {
+          id: "bday-8",
+          src: "https://images.pexels.com/photos/1024994/pexels-photo-1024994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Couple dancing",
+          description: "Dancing together"
+        },
+        {
+          id: "bday-9",
+          src: "https://images.pexels.com/photos/1024992/pexels-photo-1024992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Romantic dinner",
+          description: "Intimate celebration"
         }
       ]
     }

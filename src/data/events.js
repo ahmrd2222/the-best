@@ -40,6 +40,30 @@ const eventsData = {
           src: "https://i.ibb.co/XZcYpV0b/IMG-1453.jpg",
           alt: "Graduate portrait",
           description: "."
+        },
+        {
+          id: "grad-6",
+          src: "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Graduation celebration",
+          description: "Celebrating academic achievement"
+        },
+        {
+          id: "grad-7",
+          src: "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Graduate with honors",
+          description: "Academic excellence recognition"
+        },
+        {
+          id: "grad-8",
+          src: "https://images.pexels.com/photos/1205033/pexels-photo-1205033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Graduation ceremony moment",
+          description: "Special graduation moment"
+        },
+        {
+          id: "grad-9",
+          src: "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Graduate success",
+          description: "Achievement and success"
         }
       ]
     },
@@ -80,6 +104,30 @@ const eventsData = {
           src: "https://i.ibb.co/S4mC37xj/IMG-0381.jpg",
           alt: "Party decorations",
           description: ""
+        },
+        {
+          id: "bday-6",
+          src: "https://images.pexels.com/photos/1729931/pexels-photo-1729931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "University celebration",
+          description: "Campus celebration event"
+        },
+        {
+          id: "bday-7",
+          src: "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Student achievement",
+          description: "Academic milestone celebration"
+        },
+        {
+          id: "bday-8",
+          src: "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "University event",
+          description: "Special university occasion"
+        },
+        {
+          id: "bday-9",
+          src: "https://images.pexels.com/photos/1205033/pexels-photo-1205033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          alt: "Campus gathering",
+          description: "University community event"
         }
       ]
     }
