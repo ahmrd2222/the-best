@@ -24,7 +24,7 @@ const couplesData = {
         },
         {
           id: "eng-3",
-          src: "https://i.ibb.1.jpg",
+          src: "https://i.ibb.co/XZ0GVR5Y/IMG-2889.jpg",
           alt: "Couple laughing",
           description: ""
         },
