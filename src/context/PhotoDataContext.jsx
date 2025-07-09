@@ -69,7 +69,7 @@ export const PhotoDataProvider = ({ children }) => {
         }
       })
     } else if (category === 'commercial') {
-      setCommercial(prev => ({
+      setCommercial(prev => {
         const updatedGalleries = prev.galleries.map(gallery => {
           if (gallery.id === galleryId) {
             return {
@@ -83,7 +83,7 @@ export const PhotoDataProvider = ({ children }) => {
           ...prev,
           galleries: updatedGalleries
         }
-      }))
+      })
     }
   }
 
