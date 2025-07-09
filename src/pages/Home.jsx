@@ -6,7 +6,7 @@ import { usePhotoData } from '../context/PhotoDataContext'
 import CategoryPreview from '../components/CategoryPreview'
 
 const Home = () => {
-  const { portraits, events, couples } = usePhotoData()
+  const { portraits, events, commercial } = usePhotoData()
   const [heroRef, heroInView] = useInView({
     triggerOnce: true,
     threshold: 0.1
@@ -62,7 +62,7 @@ const Home = () => {
           >
             <h1 className="text-4xl md:text-6xl font-bold mb-6">Capturing Life's Beautiful Moments</h1>
             <p className="text-lg md:text-xl max-w-2xl mx-auto mb-8">
-              Professional photography services for portraits, events, and couples.
+              Professional photography services for portraits, events, and commercial.
             </p>
             <a 
               href="#categories"
