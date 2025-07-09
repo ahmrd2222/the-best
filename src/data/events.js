@@ -43,27 +43,27 @@ const eventsData = {
         },
         {
           id: "grad-6",
-          src: "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/zTQR1Tb3/IMG-1325.jpg",
           alt: "Graduation celebration",
-          description: "Celebrating academic achievement"
+          description: "."
         },
         {
           id: "grad-7",
-          src: "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/QjHfw00D/IMG-1353.jpg",
           alt: "Graduate with honors",
-          description: "Academic excellence recognition"
+          description: "."
         },
         {
           id: "grad-8",
-          src: "https://images.pexels.com/photos/1205033/pexels-photo-1205033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/KcZjwyNH/IMG-1515.jpg",
           alt: "Graduation ceremony moment",
-          description: "Special graduation moment"
+          description: "."
         },
         {
           id: "grad-9",
-          src: "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/rKXPBnz0/IMG-1555.jpg",
           alt: "Graduate success",
-          description: "Achievement and success"
+          description: "."
         },
         {
           id: "grad-video-1",
