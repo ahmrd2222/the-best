@@ -4,65 +4,65 @@ const eventsData = {
   coverImage: "https://i.ibb.co/WNn8PJzB/Screenshot-20250708-191020.png",
   galleries: [
     {
-      id: "ali-graduation-2025",
-      title: "SHK BILAL Assad – May 2025",
+      id: "hh",
+      title: "Yemeni-house restaurant",
       date: "May 15, 2025",
-      description: " capturing best moments in the event",
+      description: "",
       coverImage: "https://i.ibb.co/JjynCMHc/IMG-2757.jpg",
       photos: [
         {
           id: "grad-1",
-          src: "https://i.ibb.co/k7mtBK1/IMG-1658.jpg",
+          src: "https://i.ibb.co/ZR76G3Gs/IMG-2650.jpg",
           alt: "Graduate with diploma",
           description: "."
         },
         {
           id: "grad-2",
-          src: "https://i.ibb.co/GfqgY14m/IMG-1445.jpg",
+          src: "https://i.ibb.co/YYyk4xn/IMG-2761.jpg",
           alt: "Graduation ceremony",
           description: "."
         },
         {
           id: "grad-3",
-          src: "https://i.ibb.co/Tq2qPCTn/IMG-1371.jpg",
+          src: "https://i.ibb.co/3m7ZnT0K/IMG-2778-1.jpg",
           alt: "Graduate with family",
           description: "."
         },
         {
           id: "grad-4",
-          src: "https://i.ibb.co/WvJKQ8sS/IMG-1539.jpg",
+          src: "https://i.ibb.co/BHr3kgR0/IMG-2889.jpg",
           alt: "Graduates throwing caps",
           description: "."
         },
         {
           id: "grad-5",
-          src: "https://i.ibb.co/XZcYpV0b/IMG-1453.jpg",
+          src: "https://i.ibb.co/Lzz2pbdX/IMG-2831-1.jpg",
           alt: "Graduate portrait",
           description: "."
         },
         {
           id: "grad-6",
-          src: "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/gb49dp48/IMG-2877.jpg",
           alt: "Couple celebration",
-          description: "Celebrating together"
+          description: ""
         },
         {
           id: "grad-7",
-          src: "https://images.pexels.com/photos/1024998/pexels-photo-1024998.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/cckH4js3/IMG-2872.jpg",
           alt: "Romantic moment",
-          description: "Beautiful couple moment"
+          description: ""
         },
         {
           id: "grad-8",
-          src: "https://images.pexels.com/photos/1024999/pexels-photo-1024999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/d4J5f2BC/IMG-2643.jpg",
           alt: "Engagement session",
-          description: "Engagement photography"
+          description: ""
         },
         {
           id: "grad-9",
           src: "https://images.pexels.com/photos/1024996/pexels-photo-1024996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           alt: "Couple portrait",
-          description: "Professional couple portrait"
+          description: ""
         }
       ]
     },
