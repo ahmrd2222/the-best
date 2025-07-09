@@ -117,25 +117,25 @@ const eventsData = {
           id: "bday-6",
           src: "https://images.pexels.com/photos/1729931/pexels-photo-1729931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           alt: "University celebration",
-          description: "Campus celebration event"
+          description: "."
         },
         {
           id: "bday-7",
           src: "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           alt: "Student achievement",
-          description: "Academic milestone celebration"
+          description: "."
         },
         {
           id: "bday-8",
           src: "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           alt: "University event",
-          description: "Special university occasion"
+          description: "."
         },
         {
           id: "bday-9",
           src: "https://images.pexels.com/photos/1205033/pexels-photo-1205033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           alt: "Campus gathering",
-          description: "University community event"
+          description: "."
         },
         {
           id: "kings-video-1",
