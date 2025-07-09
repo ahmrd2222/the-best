@@ -32,14 +32,13 @@ const couplesData = {
           id: "eng-4",
           src: "https://i.ibb.co/gZz3VmLw/IMG-2786.jpg",
           alt: "Couple walking in garden",
-          description: ""
+          description: "."
         },
         {
           id: "eng-5",
           src: "https://i.ibb.co/jkrSNZFP/IMG-2880.jpg",
           alt: "Couple silhouette",
-          description: ""
-        }
+          description: "."
       ]
     }
   ]
