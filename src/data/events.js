@@ -68,8 +68,8 @@ const eventsData = {
         {
           id: "grad-video-1",
           type: "video",
-          src: "https://videos.pexels.com/video-files/3196036/3196036-uhd_2560_1440_25fps.mp4",
-          poster: "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://videos.pexels.com/video-files/3196036/319603440_25fps.mp4",
+          poster: "https://i.ibb.co/WvJKQ8sS/IMG-1539.jpg",
           alt: "Graduation ceremony highlights",
           description: "Video highlights from the graduation ceremony"
         }
@@ -115,33 +115,33 @@ const eventsData = {
         },
         {
           id: "bday-6",
-          src: "https://images.pexels.com/photos/1729931/pexels-photo-1729931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://iili.io/FEfRoXe.jpg",
           alt: "University celebration",
           description: "."
         },
         {
           id: "bday-7",
-          src: "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://iili.io/FEfRGEJ.jpg",
           alt: "Student achievement",
           description: "."
         },
         {
           id: "bday-8",
-          src: "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://iili.io/FEfR7kB.jpg",
           alt: "University event",
           description: "."
         },
         {
           id: "bday-9",
-          src: "https://images.pexels.com/photos/1205033/pexels-photo-1205033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://iili.io/FEfRvBs.jpg",
           alt: "Campus gathering",
           description: "."
         },
         {
           id: "kings-video-1",
           type: "video",
-          src: "https://videos.pexels.com/video-files/3209828/3209828-uhd_2560_1440_25fps.mp4",
-          poster: "https://images.pexels.com/photos/1729931/pexels-photo-1729931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://videos.pexels.com/video-files/3209828/3209828-u",
+          poster:"https://iili.io/FEfRvBs.jpg",
           alt: "King's University celebration video",
           description: "Video highlights from King's University celebration"
         }
