@@ -14,31 +14,31 @@ const couplesData = {
           id: "eng-1",
           src: "https://i.ibb.co/JRTwDdfR/IMG-2650.jpg",
           alt: "Couple by sunset",
-          description: "Romantic sunset moment"
+          description: ""
         },
         {
           id: "eng-2",
           src: "https://i.ibb.co/XZ0GVR5Y/IMG-2889.jpg",
           alt: "Ring close-up",
-          description: "Beautiful engagement ring detail"
+          description: ""
         },
         {
           id: "eng-3",
-          src: "https://i.ibb.co/bgrTqKZV/IMG-2778-1.jpg",
+          src: "https://i.ibb.1.jpg",
           alt: "Couple laughing",
-          description: "Candid moment of joy"
+          description: ""
         },
         {
           id: "eng-4",
           src: "https://i.ibb.co/gZz3VmLw/IMG-2786.jpg",
           alt: "Couple walking in garden",
-          description: "Strolling through the botanical gardens"
+          description: ""
         },
         {
           id: "eng-5",
           src: "https://i.ibb.co/jkrSNZFP/IMG-2880.jpg",
           alt: "Couple silhouette",
-          description: "Silhouette against the setting sun"
+          description: ""
         }
       ]
     }
