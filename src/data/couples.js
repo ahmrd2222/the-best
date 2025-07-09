@@ -39,9 +39,10 @@ const couplesData = {
           src: "https://i.ibb.co/jkrSNZFP/IMG-2880.jpg",
           alt: "Couple silhouette",
           description: "."
+      }
       ]
     }
   ]
- }
+}
 
-export default couplesData
+export default portraitData
