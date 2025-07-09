@@ -16,8 +16,8 @@ const CategoryPage = ({ category }) => {
         return portraits
       case 'events':
         return events
-      case 'commercials':
-        return commercials
+      case 'couples':
+        return couples
       default:
         navigate('/')
         return null
