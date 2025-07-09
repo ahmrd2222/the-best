@@ -5,10 +5,10 @@ const eventsData = {
   galleries: [
     {
       id: "ali-graduation-2025",
-      title: "Ali's Graduation – May 2025",
+      title: "SHK BILAL's Evnt– May 2025",
       date: "May 15, 2025",
-      description: "Capturing the joy and accomplishment of Ali's university graduation ceremony",
-      coverImage: "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      description: " capturing best moments in the event",
+      coverImage: "https://i.ibb.co/dwbvhg9H/IMG-1638.jpg",
       photos: [
         {
           id: "grad-1",
