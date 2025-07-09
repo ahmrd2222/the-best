@@ -5,7 +5,7 @@ const eventsData = {
   galleries: [
     {
       id: "ali-graduation-2025",
-      title: "SHK BILAL's Evnt– May 2025",
+      title: "SHK BILAL Assad – May 2025",
       date: "May 15, 2025",
       description: " capturing best moments in the event",
       coverImage: "https://i.ibb.co/dwbvhg9H/IMG-1638.jpg",
@@ -37,30 +37,31 @@ const eventsData = {
         },
         {
           id: "grad-5",
-          src: "https://images.pexels.com/photos/6147160/pexels-photo-6147160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/XZcYpV0b/IMG-1453.jpg",
           alt: "Graduate portrait",
           description: "."
         }
       ]
     },
     {
-      id: "nora-birthday-2025",
-      title: "Nora's Birthday – April 2025",
+      id: "kings University-2025",
+      title: " King's University – April 2025",
       date: "April 10, 2025",
-      description: "Celebrating Nora's special day with friends and family",
-      coverImage: "https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      description: "Student graduation celebration",
+      coverImage:
+"https://i.ibb.co/8nbDV8wc/IMG-0473.jpg",
       photos: [
         {
           id: "bday-1",
-          src: "https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/VckdT4dD/IMG-0402.jpg",
           alt: "Birthday celebration",
-          description: "Friends gathering for the party"
+          description: "."
         },
         {
           id: "bday-2",
-          src: "https://images.pexels.com/photos/5905865/pexels-photo-5905865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/twN0Tjxz/IMG-0422.jpg",
           alt: "Birthday cake",
-          description: "The birthday cake moment"
+          description: "."
         },
         {
           id: "bday-3",
