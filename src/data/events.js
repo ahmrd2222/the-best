@@ -59,27 +59,27 @@ const eventsData = {
         },
         {
           id: "bday-2",
-          src: "https://i.ibb.co/twN0Tjxz/IMG-0422.jpg",
+          src: "https://i.ibb.co/kV8rzwGZ/IMG-0409-1.jpg",
           alt: "Birthday cake",
           description: "."
         },
         {
           id: "bday-3",
-          src: "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/nscVVxZW/IMG-0346-1.jpg",
           alt: "Opening presents",
-          description: "Unwrapping birthday gifts"
+          description: ""
         },
         {
           id: "bday-4",
-          src: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/pvmmJCWJ/IMG-0394.jpg",
           alt: "Birthday toast",
-          description: "Raising glasses for a toast"
+          description: ""
         },
         {
           id: "bday-5",
-          src: "https://images.pexels.com/photos/5638732/pexels-photo-5638732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/S4mC37xj/IMG-0381.jpg",
           alt: "Party decorations",
-          description: "Beautiful party setup and decorations"
+          description: ""
         }
       ]
     }
