@@ -42,4 +42,7 @@ const couplesData = {
         }
       ]
     }
+  ]
+ }
+
 export default couplesData
