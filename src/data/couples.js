@@ -1,6 +1,6 @@
 const eventsData = {
-  title: "Event Photography",
-  description: "Capturing special moments from life's most important celebrations",
+  title: " commercial photography",
+  description: "Through my lens, your business looks its best, captivating customers with quality",
   coverImage: "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   galleries: [
     {
