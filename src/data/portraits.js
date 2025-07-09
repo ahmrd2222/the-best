@@ -132,9 +132,10 @@ const portraitData = {
     },
     {
       id: "friendds session",
-      title: "my friends session",
+      title: "my friends",
       description: "Professional portraits with controlled lighting",
-      coverImage: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      coverImage:
+"https://i.ibb.co/Zptbg2kT/IMG-2076.jpg",
       photos: [
         {
           id: "sp-1",
