@@ -1,23 +1,18 @@
 const eventsData = {
   title: " commercial photography",
   description: "Through my lens, your business looks its best, captivating customers with quality",
-  coverImage: "https://i.ibb.co/WNn8PJzB/
-
-Screenshot-20250708-191020.png",
+  coverImage: "https://i.ibb.co/WNn8PJzB/Screenshot-20250708-191020.png",
   galleries: [
     {
       id: "ali-graduation-2025",
       title: "SHK BILAL Assad – May 2025",
       date: "May 15, 2025",
       description: " capturing best moments in the event",
-      coverImage: "https://i.ibb.co/JjynCMHc/
-
-IMG-2757.jpg",
+      coverImage: "https://i.ibb.co/JjynCMHc/IMG-2757.jpg",
       photos: [
         {
           id: "grad-1",
-          src:
-"https://i.ibb.co/k7mtBK1/IMG-1658.jpg",
+          src: "https://i.ibb.co/k7mtBK1/IMG-1658.jpg",
           alt: "Graduate with diploma",
           description: "."
         },
@@ -76,8 +71,7 @@ IMG-2757.jpg",
       title: " King's University – April 2025",
       date: "April 10, 2025",
       description: "Student graduation celebration",
-      coverImage:
-"https://i.ibb.co/8nbDV8wc/IMG-0473.jpg",
+      coverImage: "https://i.ibb.co/8nbDV8wc/IMG-0473.jpg",
       photos: [
         {
           id: "bday-1",
