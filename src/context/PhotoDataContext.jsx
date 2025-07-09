@@ -1,7 +1,7 @@
 import React, { createContext, useState, useContext } from 'react'
 import portraitData from '../data/portraits'
 import eventsData from '../data/events'
-import couplesData from '../data/couples'
+import commercialData from '../data/commercial'
 
 const PhotoDataContext = createContext()
 
@@ -10,7 +10,7 @@ export const usePhotoData = () => useContext(PhotoDataContext)
 export const PhotoDataProvider = ({ children }) => {
   const [portraits, setPortraits] = useState(portraitData)
   const [events, setEvents] = useState(eventsData)
-  const [couples, setCouples] = useState(couplesData)
+  const [commercial, setCommercial] = useState(commercialData)
 
   // Functions to update data
   const addPortraitSubcategory = (newSubcategory) => {
@@ -27,8 +27,8 @@ export const PhotoDataProvider = ({ children }) => {
     }))
   }
 
-  const addCoupleGallery = (newGallery) => {
-    setCouples(prev => ({
+  const addCommercialGallery = (newGallery) => {
+    setCommercial(prev => ({
       ...prev,
       galleries: [...prev.galleries, newGallery]
     }))
@@ -68,8 +68,8 @@ export const PhotoDataProvider = ({ children }) => {
           galleries: updatedGalleries
         }
       })
-    } else if (category === 'couples') {
-      setCouples(prev => {
+    } else if (category === 'commercial') {
+      setCommercial(prev => ({
         const updatedGalleries = prev.galleries.map(gallery => {
           if (gallery.id === galleryId) {
             return {
@@ -83,7 +83,7 @@ export const PhotoDataProvider = ({ children }) => {
           ...prev,
           galleries: updatedGalleries
         }
-      })
+      }))
     }
   }
 
@@ -92,10 +92,10 @@ export const PhotoDataProvider = ({ children }) => {
       value={{ 
         portraits, 
         events, 
-        couples, 
+        commercial, 
         addPortraitSubcategory,
         addEventGallery,
-        addCoupleGallery,
+        addCommercialGallery,
         addPhotosToGallery
       }}
     >

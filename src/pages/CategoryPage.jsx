@@ -6,7 +6,7 @@ import { usePhotoData } from '../context/PhotoDataContext'
 import Breadcrumbs from '../components/ui/Breadcrumbs'
 
 const CategoryPage = ({ category }) => {
-  const { portraits, events, couples } = usePhotoData()
+  const { portraits, events, commercial } = usePhotoData()
   const navigate = useNavigate()
   
   // Get category data based on category name
@@ -16,8 +16,8 @@ const CategoryPage = ({ category }) => {
         return portraits
       case 'events':
         return events
-      case 'couples':
-        return couples
+      case 'commercial':
+        return commercial
       default:
         navigate('/')
         return null

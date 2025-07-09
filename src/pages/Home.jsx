@@ -6,7 +6,7 @@ import { usePhotoData } from '../context/PhotoDataContext'
 import CategoryPreview from '../components/CategoryPreview'
 
 const Home = () => {
-  const { portraits, events, couples } = usePhotoData()
+  const { portraits, events, commercial } = usePhotoData()
   const [heroRef, heroInView] = useInView({
     triggerOnce: true,
     threshold: 0.1
@@ -142,10 +142,10 @@ const Home = () => {
             
             <motion.div variants={itemVariants}>
               <CategoryPreview 
-                title={couples.title}
-                description={couples.description}
-                image={couples.coverImage}
-                link="/couples"
+                title={commercial.title}
+                description={commercial.description}
+                image={commercial.coverImage}
+                link="/commercial"
               />
             </motion.div>
           </motion.div>

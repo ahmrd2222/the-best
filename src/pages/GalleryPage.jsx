@@ -10,7 +10,7 @@ import Lightbox from '../components/Lightbox'
 
 const GalleryPage = ({ category }) => {
   const { galleryId } = useParams()
-  const { events, couples } = usePhotoData()
+  const { events, commercial } = usePhotoData()
   const navigate = useNavigate()
   const [headerRef, headerInView] = useInView({
     triggerOnce: true,
@@ -18,7 +18,7 @@ const GalleryPage = ({ category }) => {
   })
   
   // Determine which data source to use based on category
-  const categoryData = category === 'events' ? events : couples
+  const categoryData = category === 'events' ? events : commercial
   
   // Find the gallery data
   const galleryData = categoryData.galleries.find(gallery => gallery.id === galleryId)

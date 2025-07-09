@@ -139,7 +139,7 @@ const NavLinks = () => {
         )}
       </NavLink>
       <NavLink 
-        to="/couples" 
+        to="/commercial" 
         className={({ isActive }) => 
           `relative hover:text-[rgb(var(--color-primary))] transition-colors duration-200 ${
             isActive ? 'text-[rgb(var(--color-primary))]' : ''
@@ -148,7 +148,7 @@ const NavLinks = () => {
       >
         {({ isActive }) => (
           <>
-            Couples
+            Commercial
             {isActive && (
               <motion.span 
                 layoutId="underline"
@@ -182,12 +182,12 @@ const MobileNavLinks = () => {
         Events
       </NavLink>
       <NavLink 
-        to="/couples" 
+        to="/commercial" 
         className={({ isActive }) => 
           `block py-2 ${isActive ? 'text-[rgb(var(--color-primary))]' : ''}`
         }
       >
-        Couples
+        Commercial
       </NavLink>
     </>
   )

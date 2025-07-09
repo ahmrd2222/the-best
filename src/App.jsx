@@ -30,8 +30,8 @@ function App() {
               <Route path="portraits/:subcategory" element={<SubcategoryPage category="portraits" />} />
               <Route path="events" element={<CategoryPage category="events" />} />
               <Route path="events/:galleryId" element={<GalleryPage category="events" />} />
-              <Route path="couples" element={<CategoryPage category="couples" />} />
-              <Route path="couples/:galleryId" element={<GalleryPage category="couples" />} />
+              <Route path="commercial" element={<CategoryPage category="commercial" />} />
+              <Route path="commercial/:galleryId" element={<GalleryPage category="commercial" />} />
               <Route path="*" element={<NotFound />} />
             </Route>
           </Routes>

@@ -61,10 +61,10 @@ const Footer = () => {
                 Event Photography
               </Link>
               <Link 
-                to="/couples" 
+                to="/commercial" 
                 className="text-[rgb(var(--color-text-secondary))] hover:text-[rgb(var(--color-primary))] transition-colors duration-200"
               >
-                Couples & Engagements
+                Commercial Photography
               </Link>
             </nav>
           </div>
