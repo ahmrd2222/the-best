@@ -5,7 +5,7 @@ const portraitData = {
   subcategories: [
     {
       id: "Fikayo grad",
-      title: "Fikayo grad",
+      title: "Fikayo session",
       description: "Beautiful portraits set in natural environments",
       coverImage: "https://i.ibb.co/HLtHBHVq/Picsart-25-06-08-23-09- 51-122.jpg",
       photos: [
@@ -41,27 +41,27 @@ const portraitData = {
         },
         {
           id: "np-6",
-          src: "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/gZcbWdcf/IMG-1741.jpg",
           alt: "Portrait in golden hour",
-          description: "Beautiful natural lighting portrait"
+          description: "."
         },
         {
           id: "np-7",
-          src: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/9H1Gv5XN/IMG-1737.jpg",
           alt: "Professional headshot",
-          description: "Clean professional portrait"
+          description: "."
         },
         {
           id: "np-8",
-          src: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/LDb9vHTn/IMG-1917-1.jpg",
           alt: "Outdoor portrait session",
-          description: "Natural outdoor portrait"
+          description: "."
         },
         {
           id: "np-9",
-          src: "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/xS8P91KC/IMG-1907.jpg",
           alt: "Creative portrait lighting",
-          description: "Artistic portrait with creative lighting"
+          description: "."
         }
       ]
     },
@@ -106,33 +106,33 @@ const portraitData = {
         },
         {
           id: "up-6",
-          src: "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/qSL42MK/IMG-2991.jpg",
           alt: "Urban street portrait",
-          description: "Modern city portrait session"
+          description: "."
         },
         {
           id: "up-7",
-          src: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/fd0mxpZ4/IMG-2961.jpg",
           alt: "Industrial background portrait",
-          description: "Urban industrial setting"
+          description: "."
         },
         {
           id: "up-8",
-          src: "https://images.pexels.com/photos/1484794/pexels-photo-1484794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/jkZcT9GQ/IMG-2972.jpg",
           alt: "City skyline portrait",
-          description: "Portrait with city backdrop"
+          description: "."
         },
         {
           id: "up-9",
-          src: "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/1g4mWYs/IMG-2967.jpg",
           alt: "Modern urban portrait",
-          description: "Contemporary city portrait"
+          description: "."
         }
       ]
     },
     {
       id: "friendds session",
-      title: "Studio-style Portraits",
+      title: "my friends session",
       description: "Professional portraits with controlled lighting",
       coverImage: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       photos: [
