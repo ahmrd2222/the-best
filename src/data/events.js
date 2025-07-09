@@ -12,33 +12,34 @@ const eventsData = {
       photos: [
         {
           id: "grad-1",
-          src: "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src:
+"https://i.ibb.co/k7mtBK1/IMG-1658.jpg",
           alt: "Graduate with diploma",
-          description: "Proudly displaying the diploma"
+          description: "."
         },
         {
           id: "grad-2",
-          src: "https://images.pexels.com/photos/7944088/pexels-photo-7944088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/GfqgY14m/IMG-1445.jpg",
           alt: "Graduation ceremony",
-          description: "Walking across the stage"
+          description: "."
         },
         {
           id: "grad-3",
-          src: "https://images.pexels.com/photos/6147369/pexels-photo-6147369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/Tq2qPCTn/IMG-1371.jpg",
           alt: "Graduate with family",
-          description: "Family celebration after the ceremony"
+          description: "."
         },
         {
           id: "grad-4",
-          src: "https://images.pexels.com/photos/8101622/pexels-photo-8101622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/WvJKQ8sS/IMG-1539.jpg",
           alt: "Graduates throwing caps",
-          description: "The traditional cap toss"
+          description: "."
         },
         {
           id: "grad-5",
           src: "https://images.pexels.com/photos/6147160/pexels-photo-6147160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           alt: "Graduate portrait",
-          description: "Portrait session after graduation"
+          description: "."
         }
       ]
     },
