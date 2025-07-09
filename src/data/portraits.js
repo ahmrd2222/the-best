@@ -138,57 +138,57 @@ const portraitData = {
       photos: [
         {
           id: "sp-1",
-          src: "https://ibb.co/RpQb3tjL",
+          src: "https://i.ibb.co/svsRKcWL/IMG-2088.jpg",
           alt: "Professional headshot",
-          description: "Corporate headshot with professional lighting"
+          description: "."
         },
         {
           id: "sp-2",
-          src: "https://images.pexels.com/photos/1486064/pexels-photo-1486064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/hFLFTkMk/IMG-2094.jpg",
           alt: "Black and white portrait",
-          description: "Classic black and white studio portrait"
+          description: "."
         },
         {
           id: "sp-3",
-          src: "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/DHYNrBdq/IMG-2047.jpg",
           alt: "Creative lighting portrait",
-          description: "Creative studio lighting techniques"
+          description: "."
         },
         {
           id: "sp-4",
-          src: "https://images.pexels.com/photos/2709388/pexels-photo-2709388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/XrdVk8fG/IMG-2482.jpg",
           alt: "Fashion studio portrait",
-          description: "High-fashion studio session"
+          description: "."
         },
         {
           id: "sp-5",
-          src: "https://images.pexels.com/photos/3394347/pexels-photo-3394347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/0358WVb/IMG-2060.jpg",
           alt: "Minimalist portrait",
-          description: "Clean, minimalist studio portrait"
+          description: "."
         },
         {
           id: "sp-6",
-          src: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/BVqDvmPk/IMG-0834-1-1.jpg",
           alt: "Professional business portrait",
-          description: "Corporate professional headshot"
+          description: "."
         },
         {
           id: "sp-7",
-          src: "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/BVFN3zD4/IMG-0712-1.jpg",
           alt: "Creative studio lighting",
-          description: "Artistic studio portrait with dramatic lighting"
+          description: "."
         },
         {
           id: "sp-8",
-          src: "https://images.pexels.com/photos/1559486/pexels-photo-1559486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/qY323QY7/IMG-0704.jpg",
           alt: "Fashion portrait session",
-          description: "High-end fashion studio portrait"
+          description: "."
         },
         {
           id: "sp-9",
-          src: "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          src: "https://i.ibb.co/VW0MfMVz/IMG-0837.jpg",
           alt: "Classic studio portrait",
-          description: "Timeless studio portrait style"
+          description: "."
         }
       ]
     }
