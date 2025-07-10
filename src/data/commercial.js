@@ -133,9 +133,9 @@ const commercialData = {
     {
       id: "fashion-brand-campaign",
       title: "Fashion Brand - Marketing Campaign",
-      date: "December 3, 2024",
+      date: "",
       description: "Complete marketing campaign photography for fashion brand launch",
-      coverImage: "https://images.pexels.com/photos/3965545/pexels-photo-3965545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      coverImage: "https://i.ibb.co/N6YMGp8f/Picsart-25-07-09-20-35-01-541.jpg",
       photos: [
         {
           id: "fashion-1",
