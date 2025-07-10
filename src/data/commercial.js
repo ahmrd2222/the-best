@@ -14,56 +14,56 @@ const commercialData = {
           id: "tech-1",
           src: "https://iili.io/FETJxAF.jpg",
           alt: "Modern office workspace",
-          description: "Clean, modern office environment"
+          description: ""
         },
         {
           id: "tech-2",
           src: "https://iili.io/FETHp87.jpg",
           alt: "Team collaboration",
-          description: "Team working together on innovative solutions"
+          description: ""
         },
         {
           id: "tech-3",
           src: "https://iili.io/FETJqFV.jpg",
           alt: "Product showcase",
-          description: "Professional product photography"
+          description: ""
         },
         {
           id: "tech-4",
           src: "https://iili.io/FETJC8P.jpg",
           alt: "Executive portrait",
-          description: "Professional headshot of company executive"
+          description: ""
         },
         {
           id: "tech-5",
           src: "https://iili.io/FETJ999.jpg",
           alt: "Office culture",
-          description: "Capturing the company culture and values"
+          description: ""
         },
         {
           id: "tech-6",
           src: "https://iili.io/FETJqFV.jpg",
           alt: "Technology focus",
-          description: "Highlighting cutting-edge technology"
+          description: ""
         },
         {
           id: "tech-7",
           src: "https://iili.io/FETJIta.jpg",
           alt: "Meeting room",
-          description: "Professional meeting space photography"
+          description: ""
         },
         {
           id: "tech-8",
           src: "https://iili.io/FETJzwg.jpg",
           alt: "Brand elements",
-          description: "Company branding and visual identity"
+          description: ""
         },
         {
           id: "tech-9",
           src:
 "https://i.ibb.co/twBTrpHc/IMG-2737.jpg",
           alt: "Innovation showcase",
-          description: "Showcasing innovation and creativity"
+          description: ""
         }
       ]
     },
@@ -71,7 +71,7 @@ const commercialData = {
       id: "restaurant-menu-photography",
       title: "Fine Dining Restaurant - Menu Photography",
       date: "November 8, 2024",
-      description: "Professional food photography for upscale restaurant menu",
+      description: "",
       coverImage: "https://i.ibb.co/PvKGbRfD/Picsart-25-07-09-20-26-34-886.jpg",
       photos: [
         {
